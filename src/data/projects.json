@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "judul": "Sistem Manajemen Toko Baju",
+    "deskripsi": "Aplikasi desktop berbasis Java yang digunakan untuk mengelola data produk, stok, dan transaksi penjualan. Proyek ini menerapkan konsep OOP seperti inheritance, polymorphism, encapsulation, serta terhubung dengan database MySQL.",
+    "gambar": "https://placehold.co/800x450/6d28d9/ffffff?text=Toko+Baju",
+    "tech": ["Java", "MySQL", "OOP", "XAMPP"],
+    "link": "https://github.com/username/toko-baju-java"
+  },
+  {
+    "id": 2,
+    "judul": "Website E-Commerce Fashion",
+    "deskripsi": "Website penjualan pakaian yang menyediakan fitur katalog produk, keranjang belanja, dan manajemen data produk. Dibangun menggunakan Laravel dengan database MySQL serta antarmuka yang responsif.",
+    "gambar": "https://placehold.co/800x450/7c3aed/ffffff?text=E-Commerce+Fashion",
+    "tech": ["Laravel", "PHP", "Bootstrap", "MySQL"],
+    "link": "https://github.com/username/ecommerce-fashion"
+  },
+  {
+    "id": 3,
+    "judul": "Deteksi Bahasa Isyarat BISINDO",
+    "deskripsi": "Aplikasi Computer Vision yang mampu mengenali huruf dan angka Bahasa Isyarat Indonesia secara real-time menggunakan webcam. Model dilatih menggunakan Python, OpenCV, dan Machine Learning.",
+    "gambar": "https://placehold.co/800x450/5b21b6/ffffff?text=BISINDO+Detection",
+    "tech": ["Python", "OpenCV", "Machine Learning", "NumPy"],
+    "link": "https://github.com/username/bisindo-detection"
+  },
+  {
+    "id": 4,
+    "judul": "Sistem Absensi Wajah Karyawan",
+    "deskripsi": "Sistem absensi otomatis berbasis Computer Vision yang mendeteksi wajah karyawan dan mencatat waktu masuk maupun keluar. Proyek ini bertujuan meningkatkan efisiensi proses absensi.",
+    "gambar": "https://placehold.co/800x450/4c1d95/ffffff?text=Face+Attendance",
+    "tech": ["Python", "OpenCV", "Face Recognition", "SQLite"],
+    "link": "https://github.com/username/face-attendance"
+  },
+  {
+    "id": 5,
+    "judul": "Visualisasi Algoritma Pencarian Jalur",
+    "deskripsi": "Implementasi algoritma BFS, DFS, Hill Climbing, dan Best-First Search pada studi kasus pencarian rute. Proyek ini membantu memahami konsep Artificial Intelligence dan pencarian graf.",
+    "gambar": "https://placehold.co/800x450/6d28d9/ffffff?text=Pathfinding+AI",
+    "tech": ["Python", "Graph", "BFS", "DFS", "AI"],
+    "link": "https://github.com/username/pathfinding-ai"
+  },
+  {
+    "id": 6,
+    "judul": "Sistem Informasi Mahasiswa",
+    "deskripsi": "Aplikasi web untuk mengelola data mahasiswa, termasuk fitur tambah, ubah, hapus, dan pencarian data. Dibangun menggunakan PHP native dan MySQL sebagai media penyimpanan data.",
+    "gambar": "https://placehold.co/800x450/7c3aed/ffffff?text=Sistem+Mahasiswa",
+    "tech": ["PHP", "MySQL", "Bootstrap", "CRUD"],
+    "link": "https://github.com/username/sistem-mahasiswa"
+  }
+]

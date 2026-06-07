@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nama": "Sertifikasi Kompetensi Junior Web Developer",
+    "penerbit": "Badan Nasional Sertifikasi Profesi (BNSP)",
+    "tahun": "2025",
+    "status": "Verified"
+  },
+  {
+    "id": 2,
+    "nama": "AI-Powered Full-Stack Developer Track",
+    "penerbit": "Dicoding Indonesia / Mitra Industri",
+    "tahun": "2026",
+    "status": "Verified"
+  },
+  {
+    "id": 3,
+    "nama": "Linux System Administration & Automation",
+    "penerbit": "Cisco Networking Academy / PNL",
+    "tahun": "2025",
+    "status": "Verified"
+  }
+]

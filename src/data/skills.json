@@ -1,0 +1,61 @@
+[
+  {
+    "kategori": "Programming Languages",
+    "list": [
+      "Python",
+      "Java",
+      "PHP",
+      "JavaScript",
+      "C++"
+    ]
+  },
+  {
+    "kategori": "Web Development",
+    "list": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "Laravel",
+      "React.js",
+      "Node.js"
+    ]
+  },
+  {
+    "kategori": "Database",
+    "list": [
+      "MySQL",
+      "MariaDB",
+      "MongoDB",
+      "Firebase"
+    ]
+  },
+  {
+    "kategori": "Artificial Intelligence & Data",
+    "list": [
+      "Machine Learning",
+      "OpenCV",
+      "Data Analysis",
+      "Computer Vision"
+    ]
+  },
+  {
+    "kategori": "Networking & Operating Systems",
+    "list": [
+      "Computer Networks",
+      "Linux (Ubuntu)",
+      "Cisco Packet Tracer",
+      "GNS3",
+      "Network Configuration"
+    ]
+  },
+  {
+    "kategori": "Tools & Version Control",
+    "list": [
+      "Git",
+      "GitHub",
+      "Docker",
+      "Visual Studio Code",
+      "XAMPP"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "nama": "Muhammad Syauqi Al Rifqi",
+  "peran": "Full-Stack Developer Web & App",
+  "bio": "Mahasiswa TI di Politeknik Negeri Lhokseumawe yang berfokus pada pengembangan aplikasi web modern (React, Laravel) dan otomatisasi jaringan Linux.",
+  "kontak": {
+    "email": "https://mail.google.com/",
+    "github": "https://github.com/mriskisyahputraa2",
+    "linkedin": "https://www.linkedin.com/",
+    "instagram": "https://www.instagram.com/"
+  },
+  "foto": "/assets/foto-profile.webp"
+}
