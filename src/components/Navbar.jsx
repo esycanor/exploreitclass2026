@@ -20,7 +20,7 @@ function Navbar({ darkMode, setDarkMode }) {
       <div className="max-w-5xl mx-auto px-6 h-16 flex justify-between items-center">
         {/* LOGO BRAND */}
         <span className="font-mono font-bold text-lg tracking-wider text-[#6d28d9] dark:text-[#8b5cf6]">
-          RISKI.DEV
+          COKI.DEV
         </span>
 
         {/* MENU DESKTOP (Muncul hanya di layar besar / md ke atas) */}
